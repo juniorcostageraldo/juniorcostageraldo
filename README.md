@@ -1,6 +1,6 @@
 - 👋Olá, sou @juniorcostageraldo
 
-Eu sou novo aqui e estou mergunhando agora nesse mundo da programação.
+Eu sou novo aqui e estou mergulhando agora nesse mundo da programação.
 Eu podia estar velejando ou pescando ou tomando cerveja na praia, mas estou aqui estudando programação.
 
 <!---
